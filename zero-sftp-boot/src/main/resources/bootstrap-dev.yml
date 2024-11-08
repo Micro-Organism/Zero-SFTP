@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: zero-protobuf-boot
+sftp:
+    host: 127.0.0.1
+    localDir: D:\Sevendays\sync-files
+    password: pass
+    port: 22
+    remoteDir: /upload
+    username: foo
